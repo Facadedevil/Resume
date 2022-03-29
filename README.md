@@ -40,20 +40,16 @@ Utilizing my current technical experience with best of efforts for my new organi
 
 **Other Projects:**
 
-**Title:**** Real-Time Visual Stabilization for Quadcopter Tracking using Zed Stereo Camera**
+**Title:** **Real-Time Visual Stabilization for Quadcopter Tracking using Zed Stereo Camera**
 
 **Description** Using _ **YOLO V3** _ and _ **Bandpass, Kalman filte** _r motion filtering developed a smooth and stable visual stabilization algorithm for quadcopter tracking.
 
-**Title:**** Robo-Cleaner: Innovation for Future Cleaning Technology ****.**
+**Title:** **Robo-Cleaner: Innovation for Future Cleaning Technology ****.**
 
-**Description**. Using object detection and _ **Apriltrag** _ segregated the trash into different classes and collected and drop autonomously to respective bins.
+**Description** Using object detection and _ **Apriltrag** _ segregated the trash into different classes and collected and drop autonomously to respective bins.
 
-**Title:**** Smart tracker for elderly people**
-**Description** Using _ **YOLO tiny v4** _ on jetson nano detects and recognizes the person and sends
-
-time stamp alert to the server using MQTT indicating the location and duration
-
-the person stayed at a particular place.
+**Title:** **Smart tracker for elderly people**
+**Description** Using _ **YOLO tiny v4** _ on jetson nano detects and recognizes the person and sends time stamp alert to the server using MQTT indicating the location and duration the person stayed at a particular place.
 
 **Title:****&quot;Smart Drone Nesting and Automated data transfer&quot;**
 
