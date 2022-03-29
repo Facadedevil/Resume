@@ -44,7 +44,7 @@ Utilizing my current technical experience with best of efforts for my new organi
 
 **Description** Using  **YOLO V3**  and  **Bandpass, Kalman filter**  motion filtering developed a smooth and stable visual stabilization algorithm for quadcopter tracking.
 
-**Title:** **Robo-Cleaner: Innovation for Future Cleaning Technology ****.**
+**Title:** **Robo-Cleaner: Innovation for Future Cleaning Technology.**
 
 **Description** Using object detection and **Apriltrag**  segregated the trash into different classes and collected and drop autonomously to respective bins.
 
