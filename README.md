@@ -16,7 +16,7 @@ Utilizing my current technical experience with best of efforts for my new organi
 
 **As Software Engineer**
 
-- Developed on **UWB Position Estimation**** System** for people in warehouse using Arduino and ESP8266 WIFI module.
+- Developed on **UWB Position Estimation System** for people in warehouse using Arduino and ESP8266 WIFI module.
 - Developed on **1-D Barcode Reader** model for low luminosity and varied focal distance using monocular RGB camera with **1ms read time**.
 - Created a model using **Image Enhancement and Paddle** for Number Plate detection for low light intensity and blurred imaging.
 - Worked on **Instance Pose Estimation System** for person in warehouse
@@ -24,7 +24,7 @@ Utilizing my current technical experience with best of efforts for my new organi
 
 **Key Skill:**
 
-- Having sound knowledge of system integration using Jetson devices like Jetson Nano, tx2, tx1.
+- Having sound knowledge of system integration using Jetson devices like Jetson Xavier, Nano, tx2, tx1.
 - Good Practical knowledge of Image pattern recognition, Object detection.
 - Good knowledge of video stabilization, motion filters and compensations.
 - Good practical knowledge of Nvidia development platforms and UAV concept.
